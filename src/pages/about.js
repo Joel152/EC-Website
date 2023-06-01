@@ -83,7 +83,7 @@ const AboutPage = (props) => {
               </ol>
               <img alt={'founder'} src={'/about2.png'}></img>
             </div>
-            <h3>Sustainability</h3>
+            <h3>Roleplayer Lore </h3>
             <div id={'#sustainability'} ref={sustainabilityRef}>
               <p>
                 The Ethics Committee is an administrative department founded and 
