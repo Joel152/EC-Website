@@ -48,8 +48,10 @@ const AboutPage = (props) => {
         <Container size={'large'} spacing={'min'}>
           <div className={styles.detailContainer} ref={historyRef}>
             <p>
-              Founded in 1860, Sydney is an innovative British brand with a
-              contemporary edge. We make timeless everyday luxury clothing.
+             The Ethics Committee is a crucial component of the Foundation's 
+             operations. Its primary responsibility is to ensure that all actions 
+             taken by the Foundation are ethical and in line with its mission of 
+             protecting humanity from anomalous objects and entities..
             </p>
             <br />
             <br />
