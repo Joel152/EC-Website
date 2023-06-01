@@ -26,7 +26,7 @@ const AboutPage = (props) => {
         {/* Hero Container */}
         <Hero
           maxWidth={'900px'}
-          image={'/static/EC about pin.2.png'}
+          image={'/about.png'}
           title={`The Ethics Committee`}
         />
 
