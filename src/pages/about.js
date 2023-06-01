@@ -51,15 +51,14 @@ const AboutPage = (props) => {
              The Ethics Committee is a crucial component of the Foundation's 
              operations. Its primary responsibility is to ensure that all actions 
              taken by the Foundation are ethical and in line with its mission of 
-             protecting humanity from anomalous objects and entities..
+             protecting humanity from anomalous objects and entities.
             </p>
             <br />
             <br />
             <p>
-              We created some of the world's first T-shirts and spent decades
-              perfecting the feel of the cotton. Today we are the only brand
-              that makes T-shirts in its own factory in the UK. And we do this
-              in the same factory we have occupied since 1937.
+              Another critical aspect of their work involves determining appropriate 
+              punishments for employees who violate ethical guidelines. This can range
+              from reprimands to termination, depending on the severity of the offense..
             </p>
           </div>
         </Container>
