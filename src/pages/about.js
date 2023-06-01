@@ -35,7 +35,7 @@ const AboutPage = (props) => {
             What we do?
           </ThemeLink>
           <ThemeLink onClick={() => handleScroll(valuesRef)} to={'#values'}>
-            Values
+            In-Game Lore 
           </ThemeLink>
           <ThemeLink
             onClick={() => handleScroll(sustainabilityRef)}
