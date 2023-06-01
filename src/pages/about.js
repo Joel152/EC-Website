@@ -77,9 +77,9 @@ const AboutPage = (props) => {
                 and Class-D Containment Cells along with Omega-1 assisting them for safety.
               </p>
               <ol>
-                <li>Be an ecowear</li>
-                <li>Sophisticated and not mass-produced</li>
-                <li>Only natural materials</li>
+                <li></li>
+                <li></li>
+                <li></li>
               </ol>
               <img alt={'founder'} src={'/about2.png'}></img>
             </div>
