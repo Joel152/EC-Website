@@ -41,7 +41,7 @@ const AboutPage = (props) => {
             onClick={() => handleScroll(sustainabilityRef)}
             to={'#sustainability'}
           >
-            Sustainability
+            Roleplayer Lore 
           </ThemeLink>
         </div>
 
@@ -86,15 +86,13 @@ const AboutPage = (props) => {
             <h3>Sustainability</h3>
             <div id={'#sustainability'} ref={sustainabilityRef}>
               <p>
-                Our founder, Thomas Hill, had both an eye for quality and a
-                desire to innovate. As well as using the finest fibres such as
-                Sea Island cotton, cashmere and silk, he invented his own
-                fabrics. Sunspel continues this commitment to innovation today
-                and our unique fabrics include: Q100 Sea Island cotton, Q82
-                Supima cotton, Q75 warp knit mesh cotton and Q14 warp knit
-                cellular cotton. The technology behind these fabrics remains
-                unchanged today and all Sunspel products use the finest cottons,
-                wools and fibres.
+                The Ethics Committee is an administrative department founded and 
+                led by the Ethics Committee Chairman. It has been decades since
+                it has been founded and is in perfect condition to this day.
+                The Ethics Committee abide by the Code of Ethics which in-case 
+                they break the Code of Ethics get terminated or demoted accordingly 
+                to what the broke.
+
               </p>
               <p>
                 Made in Long Eaton, England and crafted from our luxurious long
