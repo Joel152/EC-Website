@@ -79,7 +79,7 @@ const AboutPage = (props) => {
               <ol>
                 
               </ol>
-              <img alt={'RoleplayerLorePic'} src={'static/About Role.png'}></img>
+              <img alt={'RoleplayerLorePic'} src={'/About pic 3.jpg'}></img>
             </div>
             <h3>Roleplayer Lore </h3>
             <div id={'#sustainability'} ref={sustainabilityRef}>
