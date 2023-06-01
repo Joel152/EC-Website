@@ -64,7 +64,7 @@ const AboutPage = (props) => {
         </Container>
 
         <div className={styles.imageContainer}>
-          <img alt={'shirt brand'} src={'/about1.png'}></img>
+          <img alt={'shirt brand'} src={'/EC about 4.png'}></img>
         </div>
 
         <Container size={'large'} spacing={'min'}>
