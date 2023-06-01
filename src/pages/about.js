@@ -103,7 +103,7 @@ const AboutPage = (props) => {
         </Container>
 
         <div className={styles.imageContainer}>
-          <img alt={'shirt backwards'} src={'/about3.png'}></img>
+          <img alt={'shirt backwards'} src={'static/social/Screen_Shot_2023-04-27_at_1 EC psl.png'}></img>
         </div>
       </div>
     </Layout>
